@@ -8,7 +8,7 @@
 }
 
     &_image{
-        background-image: url('/images/bg-intro-mobile.svg');
+        background-image: url('../images/bg-intro-mobile.svg');
         background-size: cover;
         background-position: center center;
         background-repeat: no-repeat;
@@ -26,8 +26,6 @@
             order: 2;
             min-height: 41rem;
             background-image: none;
-           // background-image: url('/images/bg-intro-desktop.svg');
-           // background-position: left center;
         }
         &::before{
 
